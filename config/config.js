@@ -9,6 +9,7 @@ module.exports = {
     database: 'admin',
     host: 'localhost',
     dialect: 'postgres',
+    port: 5432,
   },
   production: {
     username: 'doadmin',
